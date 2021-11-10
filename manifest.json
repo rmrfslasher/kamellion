@@ -3,7 +3,7 @@
   "name": "Kamellion",
   "version": "1.0.5",
 
-  "description": "Converts a text into a users preferred dialect. This is a framework fork of the quicknote by Mozilla.",
+  "description": "Converts a text into a users preferred english based dialect. This is a framework fork of the quicknote by Mozilla.",
   "icons": {
     "48": "icons/kamel-48.png"
   },
