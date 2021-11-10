@@ -1,6 +1,6 @@
 # Kamellion
 
-The framework for this project's code is from <a href="https://github.com/mdn/webextensions-examples/tree/master/quicknote">QuickNote</a> extension example by Mozilla.
+The framework for this project's code is from the <a href="https://github.com/mdn/webextensions-examples/tree/master/quicknote">QuickNote</a> extension example by Mozilla.
 
 This project *currently* allows you to convert non-British English text into British English text.
 
