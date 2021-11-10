@@ -5,7 +5,7 @@
 
   "description": "Converts a text into a users preferred english based dialect. This is a framework fork of the quicknote by Mozilla.",
   "icons": {
-    "48": "icons/kamel-48.png"
+    "48": "icons/kamel48.png"
   },
 
   "permissions": [
@@ -14,7 +14,7 @@
 
   "browser_action": {
     "default_icon": {
-     "32" : "icons/kamel-32.png"
+     "32" : "icons/kamel32.png"
     },
     "default_title": "Kamellion",
     "default_popup": "popup/kamel.html"
