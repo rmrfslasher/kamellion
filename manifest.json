@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Kamellion",
+  "version": "1.0.5",
+
+  "description": "Converts a text into a users preferred dialect. This is a framework fork of the quicknote by Mozilla.",
+  "icons": {
+    "48": "icons/kamel-48.png"
+  },
+
+  "permissions": [
+    "storage"
+  ],
+
+  "browser_action": {
+    "default_icon": {
+     "32" : "icons/kamel-32.png"
+    },
+    "default_title": "Kamellion",
+    "default_popup": "popup/kamel.html"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "rmrfslasher@github.com"
+    }
+  }
+
+}
