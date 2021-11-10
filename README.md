@@ -2,7 +2,7 @@
 
 This project's framework code is from https://github.com/mdn/webextensions-examples/tree/master/quicknote QuickNote example by Mozilla.
 
-This project allows you to convert non-English text into British-English text.
+This project *currently* allows you to convert non-British English text into British English text.
 
 Samples:
   color -> colour
