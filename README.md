@@ -4,13 +4,13 @@ This project's framework code is from https://github.com/mdn/webextensions-examp
 
 This project *currently* allows you to convert non-British English text into British English text.
 
-Samples:
+**Samples:**
 
-  color -> colour
+  - color -> colour
   
-  cracker -> biscuit
+  - cracker -> biscuit
   
-  checkers -> draughts
+  - checkers -> draughts
   
   
 Later additions will support more colloquialisms and a reverse of the above.
