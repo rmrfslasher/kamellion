@@ -15,6 +15,7 @@ This project *currently* allows you to convert non-British English text into Bri
   
 Later additions will support more colloquialisms and a reverse of the above.
 
+I have attempted to list generic terms, but there may be one off cases where it might produce bad syntax.
 
 **So why use this?**
 
